@@ -15,6 +15,7 @@ export EDITOR=vim
 #make sure that pip only runs in virtualenv
 export PIP_REQUIRE_VIRTUALENV=true
 export PIP_DOWNLOAD_CACHE=~/.pip/cache
+alias ta='tmux att'
 
 
 
