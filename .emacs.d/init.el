@@ -7,6 +7,7 @@
 ;(svn-status-mode)
 ;(recent-files-initialize)
 (recentf-mode)
+(setq-default tab-width 4)
 
 
 
